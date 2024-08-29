@@ -1,5 +1,5 @@
 # ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-# Move-Audit-Resources
+# Move Audit Resources
 This repository contains a curated collection of resources focused on auditing Move smart contracts. It includes tools, best practices, checklists, and guidelines to help developers and auditors ensure the security and reliability of Move-based projects
 
 
