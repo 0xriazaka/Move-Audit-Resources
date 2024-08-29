@@ -47,6 +47,6 @@ This repository contains a curated collection of resources focused on auditing M
 - MoveBit : https://movebit.xyz
 - SharkTeam : https://www.sharkteam.org
 
-## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
+## [License](https://github.com/0xriazaka/Move-Audit-Resources/blob/main/LICENSE)
 
-MIT © [Harsh Vijay ](https://github.com/iharsh234)
+MIT © [0xriazaka](https://github.com/0xriazaka)
