@@ -30,6 +30,7 @@ This repository contains a curated collection of resources focused on auditing M
 
 ## move and sui security assessment
 - https://github.com/sui-foundation/security-audits/blob/main/docs/Move%20and%20Sui%20Security%20Assessment%20-%20Zellic%20Audit%20Report.pdf
+  
 ## tools (MoveBit)
 - sui move analyzer : https://www.movebit.xyz/analyzer
 - aptos move analyzer : https://www.movebit.xyz/AptosMoveAnalyzer
