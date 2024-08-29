@@ -25,12 +25,15 @@ This repository contains a curated collection of resources focused on auditing M
 ## move security guidelines (Aptos)
 - https://aptos.dev/en/build/smart-contracts/move-security-guidelines
 
+
 ## formal verification of smart contracts with the move prover
 - https://aptos.dev/en/build/smart-contracts/prover
 
+
 ## move and sui security assessment
 - https://github.com/sui-foundation/security-audits/blob/main/docs/Move%20and%20Sui%20Security%20Assessment%20-%20Zellic%20Audit%20Report.pdf
-  
+
+
 ## tools (MoveBit)
 - sui move analyzer : https://www.movebit.xyz/analyzer
 - aptos move analyzer : https://www.movebit.xyz/AptosMoveAnalyzer
@@ -39,13 +42,19 @@ This repository contains a curated collection of resources focused on auditing M
 - move scanner : https://www.movebit.xyz/MoveScanner
 - sui contract source verifier : https://www.movebit.xyz/ContractSourceVerifier
 
+
+## sui fuzzer (FuzzingLabs)
+- https://github.com/FuzzingLabs/sui-fuzzer
+
 ## other articles
 - sandwich attacks : https://x.com/Move__jay/status/1798496048416952664
+
 
 ## move ecosystem audit companies
 - OtterSec : https://osec.io
 - MoveBit : https://movebit.xyz
 - SharkTeam : https://www.sharkteam.org
+
 
 ## [License](https://github.com/0xriazaka/Move-Audit-Resources/blob/main/LICENSE)
 
