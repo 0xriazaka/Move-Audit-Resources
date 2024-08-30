@@ -8,6 +8,12 @@ This repository contains a curated collection of resources focused on auditing M
 - move prover : https://osec.io/blog/2022-09-16-move-prover
 - unique aspects of the move : https://x.com/osec_io/status/1641543816581726209
 
+## move security blogs (zellic)
+- the billion dollar move bug : https://www.zellic.io/blog/the-billion-dollar-move-bug
+- top 10 aptos move bugs : https://www.zellic.io/blog/top-10-aptos-move-bugs
+- move fast break things move security part 1 : https://www.zellic.io/blog/move-fast-and-break-things-pt-1
+- move fast break things move security part 2 : https://www.zellic.io/blog/move-fast-break-things-move-security-part-2
+
 
 ## move language security analysis (SharkTeam)
 - chapter 1 : https://www.sharkteam.org/report/analysis/20221114001A_en.pdf
