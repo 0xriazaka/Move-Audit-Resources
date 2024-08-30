@@ -58,6 +58,7 @@ This repository contains a curated collection of resources focused on auditing M
 
 ## move ecosystem audit companies
 - OtterSec : https://osec.io
+- Zellic : https://www.zellic.io
 - MoveBit : https://movebit.xyz
 - SharkTeam : https://www.sharkteam.org
 
