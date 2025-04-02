@@ -1,4 +1,4 @@
-# ![WebApp](https://github.com/0xriazaka/Move-Audit-Resources/blob/main/images/image.jpg)
+# ![WebApp](https://github.com/0xriazaka/Move-Audit-Resources/blob/main/images/0xriazaka_aesthetic_art_middle_east_empire_manga_style_black__f314f215-f495-4b32-93ba-de579052360c_0.png)
 # Move Audit Resources
 This repository contains a curated collection of resources focused on auditing Move smart contracts. It includes tools, best practices, checklists, and guidelines to help developers and auditors ensure the security and reliability of Move-based projects
 
@@ -38,6 +38,10 @@ This repository contains a curated collection of resources focused on auditing M
 
 ## move and sui security assessment
 - https://github.com/sui-foundation/security-audits/blob/main/docs/Move%20and%20Sui%20Security%20Assessment%20-%20Zellic%20Audit%20Report.pdf
+
+
+## introduction to auditing Sui (SlowMist)
+- https://slowmist.medium.com/slowmist-introduction-to-auditing-sui-move-contracts-da005149f6bc
 
 
 ## tools (MoveBit)
