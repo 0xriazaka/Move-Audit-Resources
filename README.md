@@ -66,7 +66,7 @@ This repository contains a curated collection of resources focused on auditing M
 - MoveBit : https://movebit.xyz
 - SharkTeam : https://www.sharkteam.org
 
-
+## DM for Private Move Audit [Telegram](https://t.me/Oxriazaka)
 ## [License](https://github.com/0xriazaka/Move-Audit-Resources/blob/main/LICENSE)
 
 MIT © [0xriazaka](https://github.com/0xriazaka)
