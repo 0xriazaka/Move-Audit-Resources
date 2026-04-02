@@ -1,4 +1,5 @@
 # ![WebApp](https://github.com/0xriazaka/Move-Audit-Resources/blob/main/images/0xriazaka_aesthetic_art_middle_east_empire_manga_style_black__f314f215-f495-4b32-93ba-de579052360c_0.png)
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 # Move Audit Resources
 This repository contains a curated collection of resources focused on auditing Move smart contracts. It includes tools, best practices, checklists, and guidelines to help developers and auditors ensure the security and reliability of Move-based projects
 
