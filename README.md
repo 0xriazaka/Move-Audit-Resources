@@ -56,6 +56,9 @@ This repository contains a curated collection of resources focused on auditing M
 ## sui fuzzer (FuzzingLabs)
 - https://github.com/FuzzingLabs/sui-fuzzer
 
+## move auditor — Claude Code skill (pantheraudits)
+- AI-powered Move smart contract auditor for Sui & Aptos with 190+ vulnerability patterns, DeFi-specific checks, and false-positive filtering : https://github.com/pantheraudits/move-auditor
+
 ## other articles
 - sandwich attacks : https://x.com/Move__jay/status/1798496048416952664
 
